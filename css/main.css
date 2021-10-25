@@ -857,8 +857,8 @@ hr {
 
 /*----------- Services -----------*/
 .services-area .single-service {
-  background-color: #fff;
-  border: 1px solid rgba(214, 214, 214, 0.8);
+  /*background-color: #fff;
+  border: 1px solid rgba(214, 214, 214, 0.8);*/
   margin-bottom: 30px;
   padding: 38px 24px;
   text-align: center;
